@@ -10,6 +10,8 @@ A Balanced Scorecard egy straégiai vezetési eszköz, melynek célja hogy a menedzs
 összekapcsolásában áll. Az eszköz egyszerû, áttekinthetõ, és direkt módon a vezetés számára releváns kérdésekre ad választ. 
 Nem csak a financiális (pénzügyi) szemléletû, hanem mérõszámai megalkotásához más inputokat is figyelembe vesz.
 
+Puna
+
 A szervezet teljesitményét négy nézõpontból szemléli a rendszer:
 
 
