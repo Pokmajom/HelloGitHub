@@ -22,6 +22,7 @@ Vevõk elvárásai, teljesítése (Customer perspective):
 
 Vevõi elégedettség, hogyan jelenjünk meg vevõink elött? Teljesítménymutatók az értéklánc alapján.
 
+Alma
 
 
 Mûködési folyamatok (Internal process perspective):
@@ -38,7 +39,7 @@ A szervezeti kompetenciák fejlesztésével kapcsolatos célok. Hogyan kell a szerve
 A stratégiai tervet és a küldetést felhasználva, megtervezik a nézõpontok telesítmény mutatóit. A négy nézõpont mentén meghatározzák az elérendõ célokat, célszámokat fogalmaznak meg a kiválaszott teljesítmény
 mutatókra. Ezután akciókat fogalmaznak meg a mutatószámok elérésére. Visszacsatolások révén ezután próbálják elérni a különbözõ akciók segítségével a célszámokat.
 
-Elõnyei:
+
 
 Ösztönzési rendszert nyújt.
 Megában foglalja a visszacsatolást.
