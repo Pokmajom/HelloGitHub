@@ -1,0 +1,58 @@
+
+
+Az utóbbi idõk egyik népszerû módszere melyet elõször Art Schneiderman használt 1987-ben, egy félvezetõket gyártó cégben, 
+majd Kaplan-Norton  (Harvard) dolgozott ki 1992-tõl kezdve. (Elsõ könyv: The Balanced Scorecard, azóta a szerzõpárosnak még két könyve született a témában )
+
+ A score-szó kiegyensúlyozást jelent utalva az egyes nézõpontok közötti kiegyensúlyozásra. A "scorecard" szó az Amerikai sportokban népszerû pontózótáblákra utal.
+
+A Balanced Scorecard egy straégiai vezetési eszköz, melynek célja hogy a menedzsment, a szervezet szempontjából kritikus területekrõl átfogó,
+érthetõ, és összehasonlitható értékeket kapjon. Nem csak a stratégia megvalósítását támogatja, hanem különbözõ visszacsatolások révén formálja is. Jelentõsége a stratégiai irányítás és a kontroll
+összekapcsolásában áll. Az eszköz egyszerû, áttekinthetõ, és direkt módon a vezetés számára releváns kérdésekre ad választ. 
+Nem csak a financiális (pénzügyi) szemléletû, hanem mérõszámai megalkotásához más inputokat is figyelembe vesz.
+
+A szervezet teljesitményét négy nézõpontból szemléli a rendszer:
+
+
+Pénzügyi célok, teljesítmény (Financial perspective):
+
+Tulajdonosok, és a szervezet egyéb érdekcsoporjai érdekeinek kielégítése, kockázatok becslése. Hogyan kell a céget pozícionálni a befektetõk felé?
+
+
+Vevõk elvárásai, teljesítése (Customer perspective):
+
+Vevõi elégedettség, hogyan jelenjünk meg vevõink elött? Teljesítménymutatók az értéklánc alapján.
+
+
+
+Mûködési folyamatok (Internal process perspective):
+
+
+A business process folyamatainak azonosítása, gyengeségeinek megkeresése. Mely folyamtokat kell optimalizálnunk, melyek relevánsak.
+
+
+Szervezeti fejlõdés, tanulás (Innovation and learning perspective)
+
+A szervezeti kompetenciák fejlesztésével kapcsolatos célok. Hogyan kell a szervezetnek fejlõdnie? Mi a jövõképe? Szervezeti és egyéb tanulás.
+
+
+A stratégiai tervet és a küldetést felhasználva, megtervezik a nézõpontok telesítmény mutatóit. A négy nézõpont mentén meghatározzák az elérendõ célokat, célszámokat fogalmaznak meg a kiválaszott teljesítmény
+mutatókra. Ezután akciókat fogalmaznak meg a mutatószámok elérésére. Visszacsatolások révén ezután próbálják elérni a különbözõ akciók segítségével a célszámokat.
+
+Elõnyei:
+
+Ösztönzési rendszert nyújt.
+Megában foglalja a visszacsatolást.
+NEm csak financiális jellegû mérõszámok. (Több aspektus)
+Könnyebb komunikáció a mérõszámok miatt.
+
+
+
+Kritikái:
+
+A rendszert az évek során sokat kritizálták. A legtöbb kritika azért éri, mert nem tertalmaz a rendszer egy egyesítétt mutatót. A nézõpontoknak megvannak
+ugyan az egyes mutatói, de nincs egy egységes egyesített mutató. Sok kritika azonban az eredeti Kaplan & Norton által 1990-ben publikált rendszert éri
+ami azóta viszont azért sokat véltozott, sõt még most is változóban van.
+
+
+
+
